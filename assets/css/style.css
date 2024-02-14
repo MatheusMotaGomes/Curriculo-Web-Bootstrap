@@ -1,5 +1,8 @@
-img{
-  max-width: 15em;
+.foto-perfil{
+  max-width: 10em;
   border-radius: 8em;
   border: 0.2em solid black;
+}
+body{
+  background-color: #f7f7f7;
 }
